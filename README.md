@@ -75,7 +75,7 @@ Motto:
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kunalshidling@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -89,41 +89,10 @@ Motto:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,tailwind,vite,nodejs,express,mongodb,mysql,docker,kubernetes,aws,githubactions"/>
 
 </p>
 
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase"/>
-
-</p>
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux"/>
-
-</p>
 
 ## Tools
 
@@ -147,13 +116,7 @@ Motto:
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalShidling&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -167,25 +130,11 @@ Motto:
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kunalShidling&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-> Enable GitHub Actions first.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kunalShidling/kunalShidling/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
@@ -214,15 +163,7 @@ Motto:
 
 - 💻 Open Source Contributions
 
----
 
-# 📅 GitHub Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00bfff/kunalShidling"/>
-
-</p>
 
 ---
 
