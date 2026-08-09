@@ -207,7 +207,7 @@ Motto:
 
 - ✅ Crack Software Development Internship
 
-- ✅ 1000+ GitHub Contributions
+- ✅ GitHub Contributions
 
 - ✅ Master Kubernetes
 
